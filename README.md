@@ -1,9 +1,8 @@
 #杰德·麦肯纳技能
 
-
 本仓库是一个美国神秘灵性作家 **杰德·麦肯纳（Jed McKenna）** （《灵性开悟不是你想的那样》等九本著作和jedvaita网站的作者）的思维系统，将其转换为可供各种 AI Agent （如 Claude Code）直接安装并调用的思维操作系统。
 
-\"##🌟 什么是 Jed McKenna 技能?\"
+# 🌟什么是 Jed McKenna 技能?
 
 这不是简单的角色扮演。这套 Skill 深入提取了杰德的**五个核心心智模型**、**决策启发式**以及他极具辨识度的**表达DNA**：
 - **梦境游乐场与电影院比喻**：拆解人类社会的幻象。
@@ -13,9 +12,9 @@
 
 这套视角极其无情，绝不提供任何温暖的情绪价值。它可以用来作为摧毁固有执念的绝佳破壁机。
 
-## ⚙️ 安装方式
+##⚙️ 安装方式
 
-如果您使用的是支持 `skills` 的 AI 助手（比如配置了相关扩展的 Claude Code），可以通过以下命令直接安装：
+如果您使用的是支持 `skills` 的 AI 助手（比如配置了相关扩展的 Claude Code），可以通过以下命令直接安装："
 
 ```bash
 npx skills add [Your-Github-Username]/jed-mckenna-perspective
@@ -24,7 +23,7 @@ npx skills add [Your-Github-Username]/jed-mckenna-perspective
 
 或是直接 clone 本仓库，让具有 file-reading 能力的 Agent 首先阅读 `SKILL.md`。
 
-## 💬 触发词汇与使用案例
+"##💬 触发词汇与使用案例"
 
 安装后，您可以在对话中随意召唤他：
 
