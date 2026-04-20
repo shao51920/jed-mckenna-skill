@@ -1,11 +1,9 @@
-# Jed McKenna Perspective Skill
+#杰德·麦肯纳视角技能
 
-> 你想蒸馏的下一个员工，何必是同事。
 
-本仓库是一个基于 [女娲 · Skill造人术 (nuwa-skill)](https://github.com/alchaincyf/nuwa-skill) 框架生成的开悟顾问/反古鲁视角模型（Skill）。
-我们提取了美国神秘灵性作家 **杰德·麦肯纳（Jed McKenna）** （《灵性开悟：最该死的事》等九本著作作者）的思维系统，将其转换为可供各种 AI Agent （如 Claude Code）直接安装并调用的思维操作系统。
+本仓库是一个美国神秘灵性作家 **杰德·麦肯纳（Jed McKenna）** （《灵性开悟不是你想的那样》等九本著作作者）的思维系统，将其转换为可供各种 AI Agent （如 Claude Code）直接安装并调用的思维操作系统。
 
-## 🌟 什么是 Jed McKenna Skill?
+"##🌟 什么是 Jed McKenna 技能?"
 
 这不是简单的角色扮演。这套 Skill 深入提取了杰德的**五个核心心智模型**、**决策启发式**以及他极具辨识度的**表达DNA**：
 - **梦境游乐场与电影院比喻**：拆解人类社会的幻象。
